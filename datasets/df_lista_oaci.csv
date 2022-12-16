@@ -1,0 +1,498 @@
+oaci,uf,municipio,longitude,latitude
+SBRB,Acre,Rio Branco,-9.8683333,-67.898056
+SNGA,Espírito Santo,Guarapari,-20.646389,-40.491667
+SBIZ,Maranhão,Imperatriz,-5.5305556,-47.458333
+SBPC,Minas Gerais,Poços de Caldas,-21.837778,-46.566111
+SSCD,Mato Grosso do Sul,Chapadão do Sul,-18.839167,-52.488056
+SBBE,Pará,Belém,-1.3847222,-48.478889
+SBKG,Paraíba,Campina Grande,-7.2691667,-35.895
+SSNG,Rio Grande do Sul,Montenegro,-29.719722,-51.488889
+SIMK,São Paulo,Franca,-20.590278,-47.3825
+SBML,São Paulo,Marília,-22.195556,-49.926944
+SNWC,Ceará,Camocim,-2.8958333,-40.858889
+SSKM,Paraná,Campo Mourão,-24.0025,-52.356944
+SBJP,Paraíba,João Pessoa,-7.1483333,-34.950278
+SBMO,Alagoas,Maceió,-9.5108333,-35.791667
+SWNS,Goiás,Anápolis,-16.3625,-48.928056
+SNGX,Minas Gerais,Guaxupé,-21.326667,-46.730278
+SBGL,Rio de Janeiro,Rio de Janeiro,-22.81,-43.250556
+SBCF,Minas Gerais,Belo Horizonte,-19.624444,-43.971944
+SBAE,São Paulo,Bauru,-22.157778,-49.068333
+SBMG,Paraná,Maringá,-23.476389,-52.017778
+SNQG,Piauí,Floriano,-6.8461111,-43.078056
+SSKG,Mato Grosso do Sul,Campo Grande,-20.505556,-54.524722
+SBCA,Paraná,Cascavel,-25.002222,-53.501944
+SNIC,Bahia,Irecê,-11.34,-41.846944
+SBPP,Mato Grosso do Sul,Ponta Porã,-22.549722,-55.703056
+SNTS,Paraíba,Patos,-7.0377778,-37.2575
+SBCX,Rio Grande do Sul,Caxias do Sul,-29.195556,-51.189722
+SBBG,Rio Grande do Sul,Bagé,-31.390833,-54.109722
+SSCN,Rio Grande do Sul,Canela,-29.370556,-50.832222
+SSIM,Santa Catarina,Forquilhinha,-28.724444,-49.421111
+SDPW,São Paulo,Piracicaba,-22.711944,-47.618056
+SSKU,Santa Catarina,Curitibanos,-27.287222,-50.603889
+SSAP,Paraná,Apucarana,-23.612222,-51.385
+SBPA,Rio Grande do Sul,Porto Alegre,-29.994722,-51.171111
+SBNM,Rio Grande do Sul,Santo Ângelo,-28.281667,-54.168333
+SNAL,Alagoas,Arapiraca,-9.7763889,-36.630556
+SWPZ,Goiás,Posse,-14.118056,-46.345278
+SBSV,Bahia,Salvador,-12.908611,-38.3225
+SBSO,Mato Grosso,Sorriso,-12.472778,-55.668889
+SBGR,São Paulo,Guarulhos,-23.435556,-46.473056
+SBJH,São Paulo,São Roque,-23.426944,-47.165833
+SBMS,Rio Grande do Norte,Mossoró,-5.1958333,-37.361667
+SWBE,Ceará,São Benedito,-4.0427778,-40.893889
+SDDN,São Paulo,Andradina,-20.925,-51.381944
+SNKI,Espírito Santo,Cachoeiro de Itapemirim,-20.835278,-41.186389
+SBDB,Mato Grosso do Sul,Bonito,-21.247222,-56.4525
+SNVI,Minas Gerais,Três Corações,-21.789167,-45.268056
+SSLN,Santa Catarina,Lontras,-27.159722,-49.542778
+SNTF,Bahia,Teixeira de Freitas,-17.524444,-39.668333
+SBAC,Ceará,Aracati,-4.5686111,-37.804722
+SBVT,Espírito Santo,Vitória,-20.258056,-40.286389
+SBSL,Maranhão,São Luís,-2.5869444,-44.236111
+SBZM,Minas Gerais,Goianá,-21.513056,-43.173056
+SBTD,Paraná,Toledo,-24.685278,-53.696389
+SWPM,Rondônia,Pimenta Bueno,-11.641667,-61.181111
+SNAX,São Paulo,Assis,-22.638611,-50.455833
+SBBU,São Paulo,Bauru,-22.343611,-49.053889
+SDDR,São Paulo,Dracena,-21.460556,-51.606944
+SBJD,São Paulo,Jundiaí,-23.181667,-46.943611
+SNFU,Minas Gerais,Frutal,-20.004722,-48.958889
+SBCZ,Acre,Cruzeiro do Sul,-7.5994444,-72.769444
+SBFI,Paraná,Foz do Iguaçu,-25.600278,-54.485
+SWHP,Mato Grosso,Água Boa,-14.019722,-52.151944
+SBJI,Rondônia,Ji-Paraná,-10.870556,-61.846667
+SNBR,Bahia,Barreiras,-12.079167,-45.009444
+SBAT,Mato Grosso,Alta Floresta,-9.8663889,-56.105
+SSER,Rio Grande do Sul,Erechim,-27.663333,-52.271944
+SBBI,Paraná,Curitiba,-25.403333,-49.233611
+SBTF,Amazonas,Tefé,-3.3802778,-64.725278
+SWPI,Amazonas,Parintins,-2.6694444,-56.771111
+SBMK,Minas Gerais,Montes Claros,-16.706111,-43.821944
+SBAX,Minas Gerais,Araxá,-19.560556,-46.965556
+SNOS,Minas Gerais,Passos,-20.733333,-46.659722
+SNAE,Pernambuco,Arcoverde,-8.4077778,-37.088333
+SDPN,São Paulo,Penápolis,-21.410278,-50.031944
+SDNO,São Paulo,São Manuel,-22.696111,-48.576111
+SWLC,Goiás,Rio Verde,-17.834722,-50.956111
+SBKP,São Paulo,Campinas,-23.006944,-47.134444
+SJRG,Rio Grande do Sul,Rio Grande,-32.083333,-52.1675
+SNXB,Minas Gerais,Caxambu,-21.9175,-44.969444
+SBFL,Santa Catarina,Florianópolis,-27.670278,-48.5525
+SBPG,Paraná,Ponta Grossa,-25.184444,-50.143889
+SBCG,Mato Grosso do Sul,Campo Grande,-20.469444,-54.670278
+SNGN,Pernambuco,Garanhuns,-8.8344444,-36.471389
+SDJV,São Paulo,São João da Boa Vista,-22.016667,-46.840556
+SBJU,Ceará,Juazeiro do Norte,-7.2191667,-39.269444
+SBRD,Mato Grosso,Rondonópolis,-16.588056,-54.721667
+SSKZ,Rio Grande do Sul,Carazinho,-28.321667,-52.816667
+SBME,Rio de Janeiro,Macaé,-22.342778,-41.763889
+SNHS,Pernambuco,Serra Talhada,-8.0613889,-38.328611
+SDVG,São Paulo,Votuporanga,-20.457222,-50.0025
+SNAR,Minas Gerais,Almenara,-16.165833,-40.684167
+SBBW,Mato Grosso,Barra do Garças,-15.860833,-52.389444
+SBNF,Santa Catarina,Navegantes,-26.878611,-48.650833
+SBJV,Santa Catarina,Joinville,-26.223056,-48.797778
+SBSP,São Paulo,São Paulo,-23.626111,-46.656389
+SBMT,São Paulo,São Paulo,-23.506667,-46.633889
+SBAQ,São Paulo,Araraquara,-21.804444,-48.140278
+SWXQ,São Paulo,Lins,-21.662778,-49.731111
+SWGN,Tocantins,Araguaína,-7.2283333,-48.240833
+SNCP,Santa Catarina,Lages,-27.634167,-50.358333
+SSOE,Santa Catarina,São Miguel do Oeste,-26.781111,-53.503333
+SBPL,Pernambuco,Petrolina,-9.3675,-40.563611
+SDZG,Ceará,Tauá,-5.9333333,-40.2975
+SDIM,São Paulo,Itanhaém,-24.164722,-46.785556
+SBJE,Ceará,Cruz,-2.9066667,-40.358056
+SBSG,Rio Grande do Norte,Natal,-5.7688889,-35.366389
+SNCX,Espírito Santo,Colatina,-19.4875,-40.579444
+SDCO,São Paulo,Sorocaba,-23.477778,-47.49
+SDIY,Bahia,Feira de Santana,-12.200556,-38.906389
+SNMX,Espírito Santo,São Mateus,-18.721389,-39.833611
+SBUF,Bahia,Paulo Afonso,-9.4011111,-38.251111
+SBBH,Minas Gerais,Belo Horizonte,-19.851944,-43.950556
+SBVG,Minas Gerais,Varginha,-21.588889,-45.473333
+SBGV,Minas Gerais,Governador Valadares,-18.896944,-41.986111
+SBSI,Mato Grosso,Sinop,-11.885,-55.586111
+SBMA,Pará,Marabá,-5.3680556,-49.138056
+SBIL,Bahia,Ilhéus,-14.815,-39.033333
+SNKR,Piauí,Corrente,-10.451944,-45.136389
+SBLO,Paraná,Londrina,-23.330278,-51.136667
+SSFB,Paraná,Francisco Beltrão,-26.058889,-53.063333
+SBRJ,Rio de Janeiro,Rio de Janeiro,-22.91,-43.1625
+SBCB,Rio de Janeiro,Cabo Frio,-22.920833,-42.071389
+SBJA,Santa Catarina,Jaguaruna,-28.675278,-49.060278
+SBSR,São Paulo,São José do Rio Preto,-20.816111,-49.404722
+SBSJ,São Paulo,São José dos Campos,-23.228889,-45.871111
+SDOU,São Paulo,Ourinhos,-22.973611,-49.911389
+SBBP,São Paulo,Bragança Paulista,-22.979167,-46.5375
+SDPE,Tocantins,Porto Nacional,-10.716944,-48.400278
+SNPY,Minas Gerais,São Sebastião do Paraíso,-20.948333,-46.983056
+SNOB,Ceará,Sobral,-3.6788889,-40.336667
+SSZR,Rio Grande do Sul,Santa Rosa,-27.908889,-54.522222
+SBJF,Minas Gerais,Juiz de Fora,-21.793056,-43.385556
+SDAI,São Paulo,Americana,-22.755278,-47.268056
+SBCY,Mato Grosso,Cuiabá,-15.65,-56.1175
+SNJR,Minas Gerais,São João Del Rei,-21.085556,-44.225278
+SNDV,Minas Gerais,Divinópolis,-20.181944,-44.87
+SBTU,Pará,Tucuruí,-3.7769444,-49.719722
+SNVB,Bahia,Valença,-13.296389,-38.9925
+SBDO,Mato Grosso do Sul,Dourados,-22.200556,-54.925556
+SBCJ,Pará,Parauapebas,-6.1152778,-50.001389
+SJZA,Paraíba,Cajazeiras,-6.8827778,-38.615833
+SSGG,Paraná,Guarapuava,-25.388333,-51.523611
+SBPO,Paraná,Pato Branco,-26.217222,-52.694444
+SSOG,Paraná,Arapongas,-23.355833,-51.490833
+SBJR,Rio de Janeiro,Rio de Janeiro,-22.9875,-43.37
+SBCP,Rio de Janeiro,Campos dos Goytacazes,-21.701111,-41.307778
+SBPK,Rio Grande do Sul,Pelotas,-31.716111,-52.331111
+SSCK,Santa Catarina,Concórdia,-27.180556,-52.051111
+SDLP,São Paulo,Lençóis Paulista,-22.578333,-48.774444
+SBGM,Rondônia,Guajará-Mirim,-10.788333,-65.281667
+SWWA,Goiás,Porangatu,-13.404444,-49.157222
+SWKT,Goiás,Catalão,-18.216944,-47.899444
+SBIH,Pará,Itaituba,-4.2422222,-56.000833
+SBEG,Amazonas,Manaus,-3.0411111,-60.050556
+SBCT,Paraná,Curitiba,-25.531667,-49.176111
+SSOL,Minas Gerais,Lavras,-21.240556,-44.964167
+SDBK,São Paulo,Botucatu,-22.936667,-48.4675
+SDRK,São Paulo,Rio Claro,-22.431667,-47.5625
+SSFL,Piauí,Fronteiras,-7.1,-40.628333
+SNPD,Minas Gerais,Patos de Minas,-18.672222,-46.491389
+SBMQ,Amapá,Macapá,0.050833333,-51.070278
+SBVC,Bahia,Vitória da Conquista,-14.907778,-40.914722
+SBLE,Bahia,Lençóis,-12.482222,-41.276944
+SNGI,Bahia,Guanambi,-14.208056,-42.746111
+SBFZ,Ceará,Fortaleza,-3.7758333,-38.532222
+SNYU,Minas Gerais,Iturama,-19.717222,-50.220278
+SBHT,Pará,Altamira,-3.2508333,-52.252222
+SSUM,Paraná,Umuarama,-23.799167,-53.313889
+SSTE,Rio Grande do Sul,Torres,-29.415,-49.81
+SBLJ,Santa Catarina,Lages,-27.782222,-50.281667
+SDSC,São Paulo,São Carlos,-21.876389,-47.903333
+SBGO,Goiás,Goiânia,-16.6325,-49.221111
+SBMI,Rio de Janeiro,Maricá,-22.918056,-42.828889
+SBUL,Minas Gerais,Uberlândia,-18.883611,-48.225278
+SBTG,Mato Grosso do Sul,Três Lagoas,-20.751389,-51.680278
+SBRF,Pernambuco,Recife,-8.1263889,-34.922778
+SDTP,São Paulo,Tupã,-21.89,-50.505833
+SSKW,Rondônia,Cacoal,-11.495556,-61.450833
+SNDT,Minas Gerais,Diamantina,-18.232222,-43.650278
+SBPF,Rio Grande do Sul,Passo Fundo,-28.244167,-52.328333
+SNLN,Espírito Santo,Linhares,-19.355278,-40.071389
+SBTE,Piauí,Teresina,-5.0605556,-42.824444
+SNMH,Goiás,Pirenópolis,-15.848611,-48.982778
+SBFN,Pernambuco,Fernando de Noronha,-3.8547222,-32.428333
+SWJW,Goiás,Jataí,-17.83,-51.775278
+SBGW,São Paulo,Guaratinguetá,-22.791667,-45.204444
+SSCI,Mato Grosso do Sul,Coxim,-18.481389,-54.715833
+SWXM,Mato Grosso,Matupá,-10.17,-54.953889
+SSMJ,Mato Grosso do Sul,Maracaju,-21.633889,-55.145
+SSIQ,Rio Grande do Sul,Itaqui,-29.171944,-56.538333
+SWBG,Mato Grosso,Pontes e Lacerda,-15.193333,-59.385278
+SWKO,Amazonas,Coari,-4.1338889,-63.131111
+SBPB,Piauí,Parnaíba,-2.8938889,-41.730278
+SNGD,Piauí,Guadalupe,-6.7822222,-43.582222
+SNNU,Minas Gerais,Nanuque,-17.823056,-40.329722
+SNJK,Bahia,Jequié,-13.877778,-40.071389
+SIBU,Paraíba,Catolé do Rocha,-6.3625,-37.755278
+SDTF,São Paulo,Tatuí,-23.331944,-47.88
+SSCP,Paraná,Cornélio Procópio,-23.1525,-50.6025
+SNLT,Piauí,Paulistana,-8.1663889,-41.153889
+SSXX,Santa Catarina,Xanxerê,-26.875556,-52.373056
+SSAE,Rio Grande do Sul,Arroio Grande,-32.229167,-53.055833
+SJOG,Rondônia,Ariquemes,-9.8805556,-63.047222
+SSGA,Rio Grande do Sul,Garibaldi,-29.268333,-51.532222
+SNNE,Minas Gerais,São João Nepomuceno,-21.542222,-43.021111
+SNYE,Maranhão,Pinheiro,-2.4775,-45.105
+SNCT,Minas Gerais,Ubaporanga,-19.725278,-42.112222
+SNLO,Minas Gerais,São Lourenço,-22.091667,-45.045278
+SSSB,Rio Grande do Sul,São Borja,-28.654722,-56.034722
+SDFX,Bahia,Casa Nova,-9.1575,-40.9375
+SSRU,Rio Grande do Sul,São Lourenço do Sul,-31.384722,-52.0325
+SSEP,Rio Grande do Sul,São Sepé,-30.182222,-53.579444
+SNRX,Maranhão,Riachão,-7.3502778,-46.633889
+SWDM,Mato Grosso,Diamantino,-14.376667,-56.400556
+SSIJ,Rio Grande do Sul,Ijuí,-28.368611,-53.846389
+SNIB,Bahia,Itaberaba,-12.499722,-40.270278
+SBCR,Mato Grosso do Sul,Corumbá,-19.011944,-57.671389
+SBSN,Pará,Santarém,-2.4247222,-54.785833
+SSVI,Santa Catarina,Videira,-26.999722,-51.141389
+SNMK,Minas Gerais,Jaíba,-15.093056,-43.979167
+SNTQ,Bahia,Buritirama,-10.721667,-43.653611
+SWCA,Amazonas,Carauari,-4.8713889,-66.8975
+SDIG,São Paulo,Ibitinga,-21.747222,-48.855833
+SNIT,Bahia,Ibotirama,-12.168333,-43.2225
+SWKC,Mato Grosso,Cáceres,-16.042778,-57.629722
+SSPI,Paraná,Paranavaí,-23.09,-52.488611
+SSLO,Paraná,Loanda,-22.917778,-53.149722
+SNWS,Ceará,Crateús,-5.2111111,-40.704167
+SSRF,Bahia,Castro Alves,-12.765833,-39.451111
+SBIC,Amazonas,Itacoatiara,-3.1263889,-58.481667
+SWFR,Goiás,Formosa,-15.556111,-47.345278
+SDJO,São Paulo,São Joaquim da Barra,-20.593333,-47.842222
+SNOX,Pará,Oriximiná,-1.7136111,-55.835833
+SNSS,Minas Gerais,Salinas,-16.208333,-42.321944
+SDNH,São Paulo,Novo Horizonte,-21.497778,-49.234444
+SSTB,Santa Catarina,Três Barras,-26.132778,-50.309722
+SNSE,Bahia,Sento Sé,-9.7575,-41.855
+SNMJ,Bahia,Maracás,-13.386111,-40.466111
+SDCA,São Paulo,Capão Bonito,-24.033611,-48.356944
+SBBR,Distrito Federal,Brasília,-15.871111,-47.918611
+SWTS,Mato Grosso,Tangará da Serra,-14.661944,-57.443889
+SBPJ,Tocantins,Palmas,-10.29,-48.357778
+SWYN,Amazonas,Apuí,-7.1722222,-59.838889
+SNSG,Pernambuco,Salgueiro,-8.0466667,-39.133889
+SSGY,Paraná,Guaíra,-24.079722,-54.188056
+SNVS,Pará,Breves,-1.6363889,-50.443333
+SSSC,Rio Grande do Sul,Santa Cruz do Sul,-29.684167,-52.412222
+SWRO,Rondônia,Porto Velho,-8.7936111,-63.858056
+SNPC,Piauí,Picos,-7.0613889,-41.525833
+SBDN,São Paulo,Presidente Prudente,-22.178333,-51.418889
+SNOE,Piauí,Oeiras,-7.0188889,-42.167222
+SNPU,Minas Gerais,Paraguaçu,-21.561389,-45.754722
+SBLP,Bahia,Bom Jesus da Lapa,-13.261389,-43.4075
+SBTK,Acre,Tarauacá,-8.1547222,-70.782778
+SBCD,Santa Catarina,Caçador,-26.789722,-50.939722
+SNBI,Maranhão,Bacabal,-4.2280556,-44.819722
+SSPM,Mato Grosso do Sul,Porto Murtinho,-21.712778,-57.879167
+SWPR,Goiás,Pires do Rio,-17.318889,-48.334722
+SBPR,Minas Gerais,Belo Horizonte,-19.909167,-43.989167
+SNQV,Minas Gerais,Curvelo,-18.749444,-44.458056
+SDMH,São Paulo,Mirassol,-20.807222,-49.486111
+SBAU,São Paulo,Araçatuba,-21.144167,-50.426389
+SDPV,São Paulo,Presidente Venceslau,-21.893333,-51.884444
+SNPJ,Minas Gerais,Patrocínio,-18.909167,-46.982778
+SBIP,Minas Gerais,Santana do Paraíso,-19.470556,-42.488056
+SSNH,Rio Grande do Sul,Novo Hamburgo,-29.699167,-51.081944
+SJVO,Goiás,Aragarças,-15.899444,-52.240833
+SSBV,Mato Grosso do Sul,Bela Vista,-22.082222,-56.538333
+SJBY,Maranhão,Santa Inês,-3.6544444,-45.345278
+SSSD,Rio Grande do Sul,Soledade,-28.863333,-52.540556
+SDTK,Rio de Janeiro,Paraty,-23.223889,-44.723333
+SDRS,,Resende,-22.478611,-44.481667
+SWEI,Amazonas,Eirunepé,-6.6375,-69.883056
+SSQP,Bahia,Monte Santo,-10.465278,-39.286111
+SNKD,Minas Gerais,Conceição do Mato Dentro,-19.018611,-43.435278
+SSLG,Rio Grande do Sul,São Luiz Gonzaga,-28.376389,-55.0375
+SWDN,Tocantins,Dianópolis,-11.595278,-46.847778
+SNJB,Bahia,Jacobina,-11.163056,-40.553333
+SSCL,Mato Grosso do Sul,Cassilândia,-19.146944,-51.676389
+SNTO,Minas Gerais,Teófilo Otoni,-17.890833,-41.515
+SWVC,Mato Grosso,Vila Rica,-9.9811111,-51.140556
+SIBW,Paraíba,Conceição,-7.5625,-38.4975
+SWMW,Amazonas,Maués,-3.3569444,-57.712222
+SIZX,Mato Grosso,Juara,-11.296667,-57.548889
+SJXI,Minas Gerais,Santa Rita do Sapucaí,-22.272778,-45.64
+,Goiás,Morrinhos,-17.761667,-49.121667
+SSAB,Paraná,Ibaiti,-23.763056,-50.259167
+SDVE,São Paulo,Vera Cruz,-22.230278,-49.816944
+SNRZ,Minas Gerais,Oliveira,-20.714444,-44.865278
+SDKJ,Bahia,Formosa do Rio Preto,-11.021111,-45.187222
+SDTI,São Paulo,Tupi Paulista,-21.393056,-51.598889
+SNJP,Minas Gerais,João Pinheiro,-17.7875,-46.120278
+SSPS,Paraná,Palmas,-26.472222,-51.975556
+SDBA,São Paulo,Batatais,-20.876944,-47.585833
+SSOI,São Paulo,Pederneiras,-22.307222,-48.773056
+SNAG,Minas Gerais,Araguari,-18.668056,-48.190278
+SNBC,Maranhão,Barra do Corda,-5.5025,-45.215833
+SBPV,Rondônia,Porto Velho,-8.7136111,-63.902778
+SSCR,Paraná,Marechal Cândido Rondon,-24.512778,-54.054722
+SDPY,São Paulo,Pirassununga,-22.027778,-47.421667
+SDJC,São Paulo,Jaboticabal,-21.230833,-48.285556
+SDUN,Rio de Janeiro,Itaperuna,-21.219167,-41.875833
+SNQU,Bahia,Mucugê,-13.031667,-41.444444
+SDFD,São Paulo,Fernandópolis,-20.276667,-50.213889
+SNUB,Minas Gerais,Ubá,-21.12,-42.883611
+SDNM,Mato Grosso,Nova Mutum,-13.821111,-56.038611
+SSMT,Rio Grande do Sul,Mostardas,-31.104167,-50.912222
+SNYB,Minas Gerais,Ituiutaba,-19.001944,-49.487222
+SBUR,Minas Gerais,Uberaba,-19.764722,-47.966111
+SNFE,Minas Gerais,Alfenas,-21.431667,-45.933056
+SSUV,Paraná,União da Vitória,-26.231667,-51.068889
+SDGC,São Paulo,Garça,-22.183611,-49.656111
+SWTP,Amazonas,Santa Isabel do Rio Negro,-0.41694444,-65.033889
+SDAA,São Paulo,Araras,-22.336944,-47.358333
+SNQX,Ceará,Quixadá,-4.9788889,-38.987778
+SDUQ,São Paulo,Paraguaçu Paulista,-22.426944,-50.606944
+SDRR,São Paulo,Avaré,-23.092222,-48.987222
+SSBL,Santa Catarina,Blumenau,-26.832778,-49.093611
+SBCN,Goiás,Caldas Novas,-17.724722,-48.61
+SNBS,Maranhão,Balsas,-7.5252778,-46.053333
+SWNK,Amazonas,Boca do Acre,-8.8347222,-67.3125
+SSSZ,Paraná,Sertanópolis,-23.061944,-51.013889
+SSAN,Paraná,Andirá,-23.026944,-50.228333
+SBTT,Amazonas,Tabatinga,-4.2505556,-69.937778
+SNUH,Minas Gerais,Piumhi,-20.438889,-45.992222
+SNGB,Piauí,Gilbués,-9.8336111,-45.367222
+SNUN,Minas Gerais,Unaí,-16.353889,-46.926944
+SWHT,Amazonas,Humaitá,-7.5336111,-63.050556
+SWII,Amazonas,Santo Antônio do Içá,-2.9336111,-69.694722
+SSNQ,Mato Grosso do Sul,Nioaque,-21.184722,-55.830278
+SNBA,São Paulo,Barretos,-20.585556,-48.595833
+SNIE,Bahia,Caetité,-14.012222,-42.493889
+SDAD,São Paulo,Adamantina,-21.696111,-51.096389
+SNEB,Pará,Paragominas,-3.0197222,-47.316389
+SDBY,São Paulo,Bariri,-22.069167,-48.706389
+SNRU,Pernambuco,Caruaru,-8.2844444,-36.010833
+SBPS,Bahia,Porto Seguro,-16.438056,-39.077778
+SNBG,Espírito Santo,Baixo Guandu,-19.498889,-41.041944
+SSGB,Paraná,Guaratuba,-25.880556,-48.612222
+SWCZ,Goiás,Ceres,-15.344722,-49.604722
+SSRG,São Paulo,Registro,-24.531667,-47.840278
+SBUA,Amazonas,São Gabriel da Cachoeira,-0.14805556,-66.985833
+SSPG,Paraná,Paranaguá,-25.540556,-48.531111
+SNCZ,Minas Gerais,Ponte Nova,-20.403056,-42.916667
+SNAS,Minas Gerais,Três Marias,-18.225,-45.190556
+SWXV,Mato Grosso,Nova Xavantina,-14.690833,-52.349167
+SBOI,Amapá,Oiapoque,3.86138889,-51.796111
+SSMR,Paraná,Manoel Ribas,-24.529444,-51.651667
+SNBX,Bahia,Barra,-11.081111,-43.1475
+SNCA,Minas Gerais,Campo Belo,-20.8925,-45.335556
+SSKK,Rio Grande do Sul,Capão da Canoa,-29.763611,-50.036944
+SSQC,Paraná,Siqueira Campos,-23.674444,-49.818889
+SWFX,Mato Grosso,São Félix do Araguaia,-11.631944,-50.688333
+SDKK,São Paulo,Mococa,-21.487222,-47.033889
+SNPX,Minas Gerais,Pirapora,-17.313889,-44.858611
+SWPK,Mato Grosso,Poconé,-16.271667,-56.651111
+SDCG,Amazonas,São Paulo de Olivença,-3.4691667,-68.921111
+SNZR,Minas Gerais,Paracatu,-17.243056,-46.881389
+SDET,São Paulo,Tietê,-23.104722,-47.724444
+SNBM,Minas Gerais,Muriaé,-21.128889,-42.366944
+SSCT,Paraná,Cianorte,-23.691667,-52.642222
+SNEE,Rio Grande do Sul,Vacaria,-28.431944,-51.022778
+SNQD,Paraíba,Sousa,-6.7855556,-38.233889
+SSST,Rio Grande do Sul,Santiago,-29.215,-54.842222
+SSKS,Rio Grande do Sul,Cachoeira do Sul,-30.002222,-52.940278
+SSEZ,Rio Grande do Sul,Espumoso,-28.738056,-52.855556
+SBUG,Rio Grande do Sul,Uruguaiana,-29.783333,-57.036944
+SDBB,São Paulo,Bebedouro,-20.900278,-48.473611
+SWTY,Tocantins,Taguatinga,-12.433889,-46.400556
+SWUD,Minas Gerais,Cláudio,-20.445833,-44.812778
+SWUA,Goiás,São Miguel do Araguaia,-13.333889,-50.205833
+SSRZ,Rio Grande do Sul,Rosário do Sul,-30.2775,-54.925278
+SJTS,Pará,Terra Santa,-2.0727778,-56.488889
+SSHZ,Rio Grande do Sul,Horizontina,-27.638333,-54.338889
+SDMO,São Paulo,Monte Alto,-21.258056,-48.524167
+SIBZ,Paraíba,Itaporanga,-7.3111111,-38.113611
+SWBC,Amazonas,Barcelos,-0.98083333,-62.918889
+SBVH,Rondônia,Vilhena,-12.694167,-60.097222
+SNIG,Ceará,Iguatu,-6.3477778,-39.298611
+SWWU,Goiás,Uruaçu,-14.544722,-49.091111
+SWEK,Mato Grosso,Canarana,-13.5775,-52.268056
+SNBZ,Bahia,Paramirim,-13.490556,-42.229167
+SILC,Mato Grosso,Lucas do Rio Verde,-13.037778,-55.950278
+SSSS,Santa Catarina,São Francisco do Sul,-26.221111,-48.564444
+SNTM,Minas Gerais,Turmalina,-17.233889,-42.733889
+SWJN,Mato Grosso,Juína,-11.419444,-58.71
+SSIE,Mato Grosso do Sul,Campo Grande,-20.603889,-54.595278
+SSGW,Paraná,Goioerê,-24.219722,-53.043889
+SNKN,Rio Grande do Norte,Currais Novos,-6.2808333,-36.540278
+SIBY,Paraíba,Monteiro,-7.8783333,-37.136667
+SNRD,Bahia,Prado,-17.296944,-39.271944
+SDH2,Mato Grosso,Porto Alegre do Norte,-10.918056,-51.608889
+SWUZ,Goiás,Luziânia,-16.261667,-47.968611
+SSPN,Mato Grosso do Sul,Paranaíba,-19.651111,-51.199444
+SNYA,Pará,Almeirim,-1.4791667,-52.578056
+SNJO,Paraíba,João Pessoa,-7.0916667,-34.841944
+SJGU,Tocantins,Araguatins,-5.6858333,-48.114167
+SNAP,Minas Gerais,Janaúba,-15.731944,-43.323056
+,Mato Grosso do Sul,Nova Andradina,-22.1625,-53.330278
+SBTB,Pará,Oriximiná,-1.4897222,-56.396944
+SSOS,Rio Grande do Sul,Osório,-29.902222,-50.249167
+SSAK,Rio Grande do Sul,Cruz Alta,-28.658611,-53.611389
+SJQN,Goiás,Quirinópolis,-18.446111,-50.409167
+SWPY,Mato Grosso,Primavera do Leste,-15.5625,-54.330556
+SNIO,Bahia,Cipó,-11.125278,-38.486944
+SNFX,Pará,São Félix do Xingu,-6.6413889,-51.952222
+SBMY,Amazonas,Manicoré,-5.8169444,-61.283889
+SSWS,Rio Grande do Sul,Caçapava do Sul,-30.549722,-53.458056
+SSBN,Rio Grande do Sul,Porto Alegre,-30.189167,-51.1825
+SNJQ,Minas Gerais,Jequitinhonha,-16.441389,-41.037222
+SBCI,Maranhão,Carolina,-7.3205556,-47.458611
+SWLB,Amazonas,Lábrea,-7.2788889,-64.769444
+SNDC,Pará,Redenção,-8.0311111,-49.979722
+SBAA,Pará,Conceição do Araguaia,-8.3486111,-49.303056
+SNPA,Minas Gerais,Pará de Minas,-19.8425,-44.600833
+SBAR,Sergipe,Aracaju,-10.985278,-37.073333
+SSAQ,Rio Grande do Sul,Passo Fundo,-28.250556,-52.516667
+SWFN,Amazonas,Manaus,-3.0727778,-60.021111
+SNMN,Minas Gerais,Minas Novas,-17.233889,-42.583889
+SSJA,Santa Catarina,Joaçaba,-27.172778,-51.551667
+SWCB,Goiás,Campos Belos,-13.006944,-46.710833
+SWNH,Goiás,Aruanã,-14.933056,-51.048333
+SNMZ,Pará,Porto de Moz,-1.7413889,-52.235833
+SNOF,Minas Gerais,Ouro Fino,-22.2975,-46.393333
+SNVC,Minas Gerais,Viçosa,-20.744722,-42.841944
+SNMR,Bahia,Maraú,-14.117222,-38.983889
+SJAU,Tocantins,Araguacema,-8.8377778,-49.557778
+SDXJ,Mato Grosso do Sul,Costa Rica,-18.491389,-53.168333
+SNCS,Ceará,Campos Sales,-7.0516667,-40.358333
+SNED,Bahia,Canavieiras,-15.666389,-38.955278
+SNXQ,Bahia,Xique-Xique,-10.834167,-42.683333
+SWCQ,Rondônia,Costa Marques,-12.421667,-64.251667
+SSPL,Rio Grande do Sul,Palmeira das Missões,-27.901667,-53.328889
+SDUB,São Paulo,Ubatuba,-23.441389,-45.076111
+SWNQ,Goiás,Niquelândia,-14.436389,-48.491944
+SDIV,São Paulo,Ituverava,-20.375278,-47.768611
+SBMD,Pará,Almeirim,-0.88972222,-52.602222
+SNRP,Minas Gerais,Rio Paranaíba,-19.2125,-46.240556
+SDLY,São Paulo,Matão,-21.624167,-48.350833
+SNIP,Bahia,Itapetinga,-15.244444,-40.277222
+SSQT,Paraná,Castro,-24.8075,-49.960278
+SSSG,Rio Grande do Sul,São Gabriel,-30.345,-54.267778
+SSPT,Paraná,Palotina,-24.343333,-53.828611
+SNJM,Minas Gerais,Manhuaçu,-20.259722,-42.183889
+SNZA,Minas Gerais,Pouso Alegre,-22.288889,-45.919444
+SSIR,Rio Grande do Sul,Ibirubá,-28.604167,-53.078611
+SNTI,Pará,Óbidos,-1.8680556,-55.514444
+SNLI,Minas Gerais,Abaeté,-19.155833,-45.495
+SNVD,Bahia,Santa Maria da Vitória,-13.404722,-44.223056
+,Mato Grosso,Campo Novo do Parecis,-13.731389,-57.891667
+SSLT,Rio Grande do Sul,Alegrete,-29.8125,-55.893333
+SSRE,Paraná,Realeza,-25.801111,-53.513056
+SDOV,Goiás,Mozarlândia,-14.768889,-50.565
+SNAB,Pernambuco,Araripina,-7.5863889,-40.535278
+SDLL,São Paulo,Leme,-22.225833,-47.380833
+SNFO,Minas Gerais,Formiga,-20.395278,-45.486667
+SWKQ,Piauí,São Raimundo Nonato,-9.0827778,-42.644444
+SBRP,São Paulo,Ribeirão Preto,-21.136389,-47.776667
+SNUI,Minas Gerais,Araçuaí,-16.851944,-42.046111
+SDXF,Goiás,Alto Paraíso de Goiás,-14.119167,-47.530278
+SSJI,Mato Grosso do Sul,Jardim,-21.492778,-56.1525
+SWIQ,Goiás,Minaçu,-13.550556,-48.200556
+SNGG,Piauí,Bom Jesus,-9.0594444,-44.369167
+SWTO,Tocantins,Paraíso do Tocantins,-10.173889,-48.932778
+SSEE,Rio Grande do Sul,Estrela,-29.453333,-51.934167
+SNSM,Pará,Salinópolis,-0.69638889,-47.336667
+SSRS,Maranhão,Barreirinhas,-2.7566667,-42.804444
+SSJK,Rio Grande do Sul,Júlio de Castilhos,-29.153056,-53.743333
+SICB,Paraíba,Cuité,-6.4875,-36.14
+SNRM,Bahia,Remanso,-9.58,-42.115833
+SDMJ,São Paulo,Moji Mirim,-22.410833,-46.905556
+SNKF,Minas Gerais,Conselheiro Lafaiete,-20.738611,-43.7975
+SNUC,Rio Grande do Norte,Açu,-5.595,-36.960833
+SNSI,Minas Gerais,Santa Maria do Suaçuí,-18.198611,-42.466111
+SDPD,São Paulo,Pindamonhangaba,-22.943889,-45.431944
+SDEP,São Paulo,Presidente Epitácio,-21.775,-52.143611
+SBEK,Pará,Jacareacanga,-6.2352778,-57.775833
+SSVL,Paraná,Telêmaco Borba,-24.316389,-50.652222
+SWME,Goiás,Mineiros,-17.551944,-52.556111
+SSVN,Rio Grande do Sul,Veranópolis,-28.935556,-51.567778
+SSNB,Mato Grosso do Sul,Naviraí,-23.034167,-54.177778
+SNPQ,Pernambuco,Pesqueira,-8.3741667,-36.637778
+SBTC,Bahia,Una,-15.353333,-38.997222
+SBNV,Goiás,Goiânia,-16.625556,-49.349444
+SDTB,São Paulo,Atibaia,-23.128333,-46.574722
+SWOB,Amazonas,Fonte Boa,-2.5336111,-66.067222
+SBSM,Rio Grande do Sul,Santa Maria,-29.710833,-53.692222
+SDAE,São Paulo,São Pedro,-22.583611,-47.896111
+SSNP,Rio Grande do Sul,Nova Prata,-28.8025,-51.604167
+SWBR,Amazonas,Borba,-4.4086111,-59.597778
+SNKK,Rio Grande do Norte,Caicó,-6.4391667,-37.078056
+SWPG,Mato Grosso,Porto dos Gaúchos,-11.516944,-57.333889
+SNIU,Bahia,Ipiaú,-14.173333,-39.684167
+SBCH,Santa Catarina,Chapecó,-27.133889,-52.661944
+SDAG,Rio de Janeiro,Angra dos Reis,-22.975278,-44.307222
+SNMA,Pará,Monte Alegre,-1.9966667,-54.071389
