@@ -1,5 +1,5 @@
 # Tarifas Aéreas Domésticas - Aeroporto do Recife - SBRF
-Repositório do projeto de análise da venda e preço das passagens aéreas a partir do Aeroporto do Recife(REC-SBRF).
+Repositório do projeto de análise da venda e preço das passagens aéreas a partir do Aeroporto do Recife(REC-SBRF). Utilizando Python e a biblioteca Pandas para extração e transformação inicial e o Power BI para refinamento, criação de medidas e dashborad. 
 
 ## Dashboard do projeto:
 :bar_chart: [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY4MDcyZjMtNzVhOC00ZjUzLWJlZDYtNWU0MThjODk0MDlhIiwidCI6IjBjMTUyNDhkLTFiYjMtNDE2Yi1hODJkLTUyOTgxZWUwMzc2NSJ9)
