@@ -8,6 +8,8 @@ Salientando que segundo a ANAC: "Os dados de tarifas aéreas domésticas abrange
 ## Dashboard do projeto:
 :bar_chart: [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY4MDcyZjMtNzVhOC00ZjUzLWJlZDYtNWU0MThjODk0MDlhIiwidCI6IjBjMTUyNDhkLTFiYjMtNDE2Yi1hODJkLTUyOTgxZWUwMzc2NSJ9)
 
+![Dashborad](https://github.com/pedrooliveirape/tarifas_aereas_domesticas-aeroporto_recife-sbrf/blob/5fc6709fccbbd69914d76e0e3ab0b0691bb61fab/img/dash_passagens_sbrf.png)
+
 ## Índice:
 
 :file_folder: **datasets**
